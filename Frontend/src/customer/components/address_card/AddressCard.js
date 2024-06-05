@@ -5,10 +5,10 @@ const AddressCard = () => {
         <div>
             <div className='space-y-3'>
                 <p className='font-semibold'>Ashish Kumar</p>
-                <p>Narayan Garh, Gaya, Bihar, 823001</p>
+                <p>Nutan Nagar Near, Gaya, Bihar, 823001</p>
                 <div className='space-y-l'>
                     <p className='font-semibold'>Phone Number</p>
-                    <p>7382828887</p>
+                    <p>8210049923</p>
                 </div>
             </div>
         </div>
