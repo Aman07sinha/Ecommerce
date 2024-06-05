@@ -123,7 +123,7 @@ const Footer = () => {
             </Typography>
 
             <Typography variant="body2" component='p' align="center">
-                Made by Ashish Kumar.
+                Made by Aman Sinha.
             </Typography>
 
             <Typography variant="body2" component='p' align="center">
